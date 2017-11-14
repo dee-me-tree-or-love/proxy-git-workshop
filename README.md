@@ -22,14 +22,14 @@ But of course we will see how it acually goes :grin:
 Before taking part, please make sure you have all the stuff mentioned below: 
 - **Laptop with `git` set up**  
 please install a the git software and make sure it's usable:   
-Get `git` for Windows here:  https://git-for-windows.github.io/
+Get `git` for Windows here:  https://git-for-windows.github.io/  
 More information: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git  
 To make sure it works: open terminal (preferably *git bash*), type `git --version` and press enter.  
 The output should be something like that: `git version 2.13.6`  
 If not, please refer to previous link and this article: [Adding git to PATH](http://www.chambaud.com/2013/07/08/adding-git-to-path-when-using-github-for-windows/) 
 
 - **GitHub account**  
-For this workshop we will use GitHub
+For this workshop we will use GitHub  
 You can register here: https://github.com/join  
 
 - **Your favorite IDE working**  
