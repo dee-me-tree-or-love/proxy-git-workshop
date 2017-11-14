@@ -36,7 +36,7 @@ You can register here: https://github.com/join
 It's totally up to you what IDE to use, but personally I'd recommend checking out something out of this list:   
 :boom: [Visual Studio Code](https://code.visualstudio.com/)  
 :boom: [Atom](https://atom.io/)  
-[Sublime Text](https://www.sublimetext.com/)
+:boom: [Sublime Text](https://www.sublimetext.com/)
 
 
 - **NodeJS & npm installed**  
