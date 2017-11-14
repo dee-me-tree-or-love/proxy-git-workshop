@@ -39,8 +39,9 @@ It's totally up to you what IDE to use, but personally I'd recommend checking ou
 [Sublime Text](https://www.sublimetext.com/)
 
 
-- **NodeJS installed**  
-For the practical part we will make a little application with NodeJS.  
+- **NodeJS & npm installed**  
+For the practical part we will make a little application with NodeJS.    
+The installation here: https://nodejs.org/en/     
 Don't worry if you are not familiar, you'll get the hang of it :grimacing:  
 
 - **Good vibes**   
