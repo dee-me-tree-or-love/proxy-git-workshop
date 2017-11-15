@@ -3,7 +3,9 @@ On this workshop we will try to give an introduction to git and some nice tips o
 ### When 
 Thursday **16.11.2017** at **16:30**
 ### Where
-To be announced soon ;)
+Campus R1, room 2.43   
+If there will be any changes - we'll adapt ;)   
+
 ### Schedule  
 - *16:30* - *17:00*: Workshop presentation
 - *17:00* - *17:15*: Break with snacks and socialising
