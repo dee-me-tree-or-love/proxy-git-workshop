@@ -1,4 +1,4 @@
 [submodule "proxy-git-practice"]
 	path = proxy-git-practice
-	url = git@github.com:dee-me-tree-or-love/proxy-git-practice.git
+	url = https://github.com/dee-me-tree-or-love/proxy-git-practice.git
 	branch = develop
