@@ -11,9 +11,10 @@
 - go to 'proxy-git-practice' folder
 - create a new branch with the name "PR-[your name]"
 - create a new folder with your name and inside create file `index.js`
-- copy template for index.js from `template.js`
+- follow template for index.js from `example/index.js`
 - inside write a function solving one of the exercises from this [list](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php) or come up with your own idea
 - make a function return an object of form: `{ "[your name]": "[result of your exercise]" }`
+- add you function to `results.js` according to the example
 - when finished, commit your changes, publish your branch to the repository
 - go to github page of this project
 - open a pull request for your branch and ask a person on the right for a review. (include me as well :wink:)
